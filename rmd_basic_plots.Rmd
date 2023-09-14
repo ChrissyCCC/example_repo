@@ -2,13 +2,12 @@
 title: "Basic Plots"
 author: "Chrissy Chen"
 date: 2023-09-14
-output: html_document
+output: github_document
 ---
 
 ```{r setup, include = FALSE}
 library(tidyverse)
 ```
-
 
 
 The purpose of this file is to present a couple of basic plots using `ggplot`.
